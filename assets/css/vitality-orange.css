@@ -102,11 +102,6 @@ section.bg-gray {
     background: rgba(34, 34, 34, .5);
 }
 
-body {
-    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    font-weight: 300;
-}
 
 $ani-speed: 2s;
 $ani-delay: 1s;
